@@ -1,0 +1,5 @@
+D:\Shahadat_AT\18th August 2019\LT3MVCA\ROM\ROM.Models\bin\Debug\ROM.Models.dll
+D:\Shahadat_AT\18th August 2019\LT3MVCA\ROM\ROM.Models\bin\Debug\ROM.Models.pdb
+D:\Shahadat_AT\18th August 2019\LT3MVCA\ROM\ROM.Models\obj\Debug\ROM.Models.csproj.CoreCompileInputs.cache
+D:\Shahadat_AT\18th August 2019\LT3MVCA\ROM\ROM.Models\obj\Debug\ROM.Models.dll
+D:\Shahadat_AT\18th August 2019\LT3MVCA\ROM\ROM.Models\obj\Debug\ROM.Models.pdb

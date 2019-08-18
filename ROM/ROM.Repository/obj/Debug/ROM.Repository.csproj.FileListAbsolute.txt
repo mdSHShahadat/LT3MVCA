@@ -1,0 +1,17 @@
+D:\Shahadat_AT\18th August 2019\LT3MVCA\ROM\ROM.Repository\bin\Debug\ROM.Repository.dll
+D:\Shahadat_AT\18th August 2019\LT3MVCA\ROM\ROM.Repository\bin\Debug\ROM.Repository.pdb
+D:\Shahadat_AT\18th August 2019\LT3MVCA\ROM\ROM.Repository\obj\Debug\ROM.Repository.csproj.CoreCompileInputs.cache
+D:\Shahadat_AT\18th August 2019\LT3MVCA\ROM\ROM.Repository\obj\Debug\ROM.Repository.dll
+D:\Shahadat_AT\18th August 2019\LT3MVCA\ROM\ROM.Repository\obj\Debug\ROM.Repository.pdb
+D:\Shahadat_AT\18th August 2019\LT3MVCA\ROM\ROM.Repository\bin\Debug\ROM.Repository.dll.config
+D:\Shahadat_AT\18th August 2019\LT3MVCA\ROM\ROM.Repository\bin\Debug\EntityFramework.dll
+D:\Shahadat_AT\18th August 2019\LT3MVCA\ROM\ROM.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\Shahadat_AT\18th August 2019\LT3MVCA\ROM\ROM.Repository\bin\Debug\ROM.DatabaseContext.dll
+D:\Shahadat_AT\18th August 2019\LT3MVCA\ROM\ROM.Repository\bin\Debug\ROM.Models.dll
+D:\Shahadat_AT\18th August 2019\LT3MVCA\ROM\ROM.Repository\bin\Debug\ROM.DatabaseContext.pdb
+D:\Shahadat_AT\18th August 2019\LT3MVCA\ROM\ROM.Repository\bin\Debug\ROM.DatabaseContext.dll.config
+D:\Shahadat_AT\18th August 2019\LT3MVCA\ROM\ROM.Repository\bin\Debug\ROM.Models.pdb
+D:\Shahadat_AT\18th August 2019\LT3MVCA\ROM\ROM.Repository\bin\Debug\EntityFramework.xml
+D:\Shahadat_AT\18th August 2019\LT3MVCA\ROM\ROM.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\Shahadat_AT\18th August 2019\LT3MVCA\ROM\ROM.Repository\obj\Debug\ROM.Repository.csprojAssemblyReference.cache
+D:\Shahadat_AT\18th August 2019\LT3MVCA\ROM\ROM.Repository\obj\Debug\ROM.Repository.csproj.CopyComplete

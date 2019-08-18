@@ -1,0 +1,17 @@
+D:\Shahadat_AT\18th August 2019\LT3MVCA\ROM\ROM.BLL\bin\Debug\ROM.BLL.dll
+D:\Shahadat_AT\18th August 2019\LT3MVCA\ROM\ROM.BLL\bin\Debug\ROM.BLL.pdb
+D:\Shahadat_AT\18th August 2019\LT3MVCA\ROM\ROM.BLL\obj\Debug\ROM.BLL.csprojAssemblyReference.cache
+D:\Shahadat_AT\18th August 2019\LT3MVCA\ROM\ROM.BLL\obj\Debug\ROM.BLL.csproj.CoreCompileInputs.cache
+D:\Shahadat_AT\18th August 2019\LT3MVCA\ROM\ROM.BLL\obj\Debug\ROM.BLL.dll
+D:\Shahadat_AT\18th August 2019\LT3MVCA\ROM\ROM.BLL\obj\Debug\ROM.BLL.pdb
+D:\Shahadat_AT\18th August 2019\LT3MVCA\ROM\ROM.BLL\bin\Debug\ROM.Models.dll
+D:\Shahadat_AT\18th August 2019\LT3MVCA\ROM\ROM.BLL\bin\Debug\ROM.Repository.dll
+D:\Shahadat_AT\18th August 2019\LT3MVCA\ROM\ROM.BLL\bin\Debug\ROM.DatabaseContext.dll
+D:\Shahadat_AT\18th August 2019\LT3MVCA\ROM\ROM.BLL\bin\Debug\EntityFramework.dll
+D:\Shahadat_AT\18th August 2019\LT3MVCA\ROM\ROM.BLL\bin\Debug\ROM.Models.pdb
+D:\Shahadat_AT\18th August 2019\LT3MVCA\ROM\ROM.BLL\bin\Debug\ROM.Repository.pdb
+D:\Shahadat_AT\18th August 2019\LT3MVCA\ROM\ROM.BLL\bin\Debug\ROM.Repository.dll.config
+D:\Shahadat_AT\18th August 2019\LT3MVCA\ROM\ROM.BLL\bin\Debug\ROM.DatabaseContext.pdb
+D:\Shahadat_AT\18th August 2019\LT3MVCA\ROM\ROM.BLL\bin\Debug\ROM.DatabaseContext.dll.config
+D:\Shahadat_AT\18th August 2019\LT3MVCA\ROM\ROM.BLL\bin\Debug\EntityFramework.xml
+D:\Shahadat_AT\18th August 2019\LT3MVCA\ROM\ROM.BLL\obj\Debug\ROM.BLL.csproj.CopyComplete
